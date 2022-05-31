@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
                 }).show();
     }
 
-    public void newMatch() {  //A game is composed of three matches
+    public void newMatch() { 
 
         int operand1 = random.nextInt(10);
         int operand2 = random.nextInt(10);
